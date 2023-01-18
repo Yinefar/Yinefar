@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yinefar
 - 👀 I’m interested in web development, AI and software development
 - 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate on IA projects
+- 💞️ I’m looking to collaborate on software development
 - 📫 How to reach me @yinefar on Instagram
 
 <!---
