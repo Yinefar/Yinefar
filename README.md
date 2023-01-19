@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python, MongoDB**
 
-- 💬 Ask me about **java, SQLServer, MySQL**
+- 💬 Ask me about **Java, C#, SQLServer, MySQL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
