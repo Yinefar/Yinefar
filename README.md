@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Yinefar Yiniz</h1>
+<img src="https://kinsta.com/es/wp-content/uploads/sites/8/2020/04/herramientas-de-revision-de-codigo-1024x512.png" width="1000"
+     height="341"></img>
+<h1 align="center">Hi , I'm Yinefar Yiniz</h1>
 <h3 align="center">A passionate developer from Perú</h3>
 
-- 🌱 I’m currently learning **java, MongoDB**
+- 🌱 I’m currently learning **Python, MongoDB**
 
 - 💬 Ask me about **java, SQLServer, MySQL**
 
