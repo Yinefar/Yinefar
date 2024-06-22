@@ -2,9 +2,9 @@
 <h3 align="center">A passionate software developer from Perú </h3>
 <h3 align="center"> CIBERTEC </h3>
 
-- 🌱 I’m currently learning **Python, MongoDB, Bootstrap, React, Azure, Cibersecurity**
+- 🌱 I’m currently learning **Python, Bootstrap, Kotlin, React, Azure, Cibersecurity**
 
-- 💬 Ask me about **Java, C#, SQLServer, MySQL, JavaScript...** 
+- 💬 Ask me about **Java, C#, SQLServer, MySQL, MongoDB, JavaScript...** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
