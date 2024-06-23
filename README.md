@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software developer from Perú </h3>
 <h3 align="center"> CIBERTEC </h3>
 
-- 🌱 I’m currently learning **Python, Bootstrap, Kotlin, React, Azure, Cibersecurity**
+- 🌱 I’m currently learning **Python, Bootstrap, Kotlin, React, Cibersecurity**
 
 - 💬 Ask me about **Java, C#, SQLServer, MySQL, MongoDB, JavaScript...** 
 
