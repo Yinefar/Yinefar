@@ -1,6 +1,6 @@
-<h1 align="center">Hi, everyone!  I'm Yinefar Yiniz 🦙</h1>
-<h3 align="center">A passionate software developer from Perú </h3>
-<h3 align="center"> CIBERTEC </h3>
+<h1 align="center" style="font-family: 'Encode Sans Condensed';">Hi, everyone!  I'm Yinefar Yiniz </h1>
+<h3 align="center" style="font-family: 'Encode Sans Condensed';">A passionate software developer from Perú </h3>
+<h3 align="center" style="font-family: 'Encode Sans Condensed';"> CIBERTEC </h3>
 
 - 🌱 I’m currently learning **Python, Bootstrap, Kotlin, React, Cybersecurity**
 
